@@ -2,6 +2,7 @@
 
 ## How to Setup and Run
 
+Run the below commands in terminal
 ```sh
     npm i
     npm start
